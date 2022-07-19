@@ -16,17 +16,11 @@ body{
     cursor: context-menu;
 }
 
-audio{
-    width: 0px;
-    height: 0px;
-}
-
 #arrow{
     width: auto;
     height: 25px;
     display: flex;
     padding-top: 30px;
-    margin-top: -10px;
 }
 
 #three{
@@ -97,7 +91,7 @@ audio{
     .princ{
         padding-left: 30px;
         padding-right: 30px;
-        margin-top: 80px;
+        margin-top: 70px;
     }
 
     #capa{
