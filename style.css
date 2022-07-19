@@ -86,3 +86,57 @@ body{
     margin-left: 40%;
     cursor: pointer;
 }
+
+@media screen and (max-width: 600px){
+    .princ{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #capa{
+        width: 200px;
+        height: 200px;
+    }
+    
+    #barra{
+        width: 240px;
+        height: auto;
+        margin-top: -35px;
+        margin-bottom: -65px;
+    }
+    
+    #pause{
+        width: 50px;
+        height: auto;
+        margin-top: -25px;
+        margin-left: 40%;
+        cursor: pointer;
+    }
+
+    .tit,
+    .subtit{
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .msctit{
+        font-size: 15px;
+    }
+
+    .nome{
+        font-size: 13px;
+        color: #aeaeae;
+        margin-bottom: 7px;
+    }
+
+    #arrow{
+        width: auto;
+        height: 20px;
+    }
+    
+    #three{
+        width: auto;
+        height: 15px;
+        margin-top: -20px;
+    }
+}
